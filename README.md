@@ -1,7 +1,5 @@
-## 📊 Dashboard Screenshots
-
-### Overall Sales Dashboard
-![Overall Dashboard](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/Overview.jpg)
+🚀 Project Overview: 
+The **Sales Analysis Dashboard** project focuses on transforming raw sales data into **actionable business insights** using **data cleaning, analysis, and interactive visualizations**. The project helps identify sales trends, product performance, profitability, and regional growth opportunities, enabling data-driven decision making.
 
 
 
