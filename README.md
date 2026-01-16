@@ -36,6 +36,11 @@ The **Sales Analysis Dashboard** project focuses on transforming raw sales data 
   🌍 Regional Insights:
   - City-wise and regional sales performance  
   - Identification of high-potential markets and growth opportunities
+ 
+  🖼️ Dashboard Screenshots:
+  🔹 Overall Sales Dashboard
+![Overall Sales Dashboard](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/overalldata.jpg?raw=true)
+
 
   
 
