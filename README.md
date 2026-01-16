@@ -41,6 +41,17 @@ The **Sales Analysis Dashboard** project focuses on transforming raw sales data 
   🔹 Overall Sales Dashboard
 ![Overall Sales Dashboard](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/overalldata.jpg?raw=true)
 
+  🔹 Product Performance Analysis
+![Product Performance Analysis](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/Products.jpg?raw=true)
+
+  🔹 Regional Sales Insights
+![Regional Sales Insights](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/Overview.jpg?raw=true)
+
+  🔹 Sales Comparison Between Two Time Periods
+![Sales Comparison Dashboard](https://github.com/Priya862-droid/Powerbi-Sales-Dashboard/blob/main/salescomparison.jpg?raw=true)
+
+
+
 
   
 
